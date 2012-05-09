@@ -1,0 +1,16 @@
+HWK6
+====
+
+Homework 6
+
+being done as a regrade.
+
+
+DISCUSSION
+This is a good use of OOP because for one we are using the class structure in making the Process class. Also the way that this is coded makes it easily reusable.
+
+Overloading the destructor if that is possible would be a good way and take input from the user at some point to determine which destructor to use. If overloading destructors is not possible then maybe having a global variable in the class that could be set to a specific value and is used in the destructor which holds a switch case of all 3 options.
+
+Somehow during the destruction of a child process have it send a signal to the parent to let it know that it is about to die and then proceed with terminating the child process.
+
+I did not do any of the extra credit.
